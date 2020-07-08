@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>My Blog</title>
+  <title>Wangqiang</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://id-wangqiang.github.io/</id>
   
   <author>
-    <name>Wang qiang</name>
+    <name>小锵同学、</name>
     
   </author>
   
