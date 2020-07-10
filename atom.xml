@@ -5,9 +5,9 @@
   <subtitle>博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://id-wangqiang.github.io/"/>
+  <link href="http://wangqiang.cool/"/>
   <updated>2020-07-09T15:47:50.000Z</updated>
-  <id>https://id-wangqiang.github.io/</id>
+  <id>http://wangqiang.cool/</id>
   
   <author>
     <name>小锵同学、</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://id-wangqiang.github.io/2020/07/08/hello-world/"/>
-    <id>https://id-wangqiang.github.io/2020/07/08/hello-world/</id>
+    <link href="http://wangqiang.cool/2020/07/08/hello-world/"/>
+    <id>http://wangqiang.cool/2020/07/08/hello-world/</id>
     <published>2020-07-08T00:53:53.000Z</published>
     <updated>2020-07-09T15:47:50.000Z</updated>
     
