@@ -17,7 +17,7 @@ var getCookies = function (name) {
   if (parts.length === 2) return parts.pop().split(';').shift()
 }
 
-var autoChangeMode = 'false'
+var autoChangeMode = '2'
 var t = getCookies('theme')
 if (autoChangeMode === '1') {
   var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
@@ -133,7 +133,7 @@ window.valine = new Valine({
   el:'#vcomment',
   appId: 'Ct97rNdTgVrrzMFb94wRC7vx-gzGzoHsz',
   appKey: '5s6Rh1vKfLGEuoXDIGK4fLjU',
-  placeholder: '留下你的昵称和邮箱....可以快速收到回复',
+  placeholder: '留下你的昵称(填写QQ会生成头像)和邮箱....可以快速收到回复',
   avatar: 'monsterid',
   meta: guestInfo,
   pageSize: '10',

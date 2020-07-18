@@ -4566,7 +4566,7 @@ img {
   background-color: #ff7242;
 }
 #vcomment textarea {
-  background: url("/image/comment_bg.png") 100% 100% no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/ID-WangQiang/MyBlogImg@master/2020/07/18/239b0a68b9e2f768a164c7cfebdd2640.png") 100% 100% no-repeat;
 }
 #vcomment .vimg {
   -webkit-transition: all 0.3s;
