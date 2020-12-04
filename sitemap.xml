@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wangqiang.cool/2020/12/01/Kafka%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%88%B0%E5%BA%95%E4%BC%9A%E4%B8%8D%E4%BC%9A%E4%B8%A2%E6%B6%88%E6%81%AF/</loc>
+    <loc>http://wangqiang.cool/2020/12/04/Kafka%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%88%B0%E5%BA%95%E4%BC%9A%E4%B8%8D%E4%BC%9A%E4%B8%A2%E6%B6%88%E6%81%AF/</loc>
     
-    <lastmod>2020-12-04T14:36:55.104Z</lastmod>
+    <lastmod>2020-12-04T14:40:51.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wangqiang.cool/2020/08/04/%E5%89%91%E6%8C%87-Offer-65-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95/</loc>
+    
+    <lastmod>2020-12-04T14:37:02.742Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wangqiang.cool/2020/08/01/%E5%89%91%E6%8C%87-Offer-68-II-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/</loc>
+    
+    <lastmod>2020-12-04T14:36:57.032Z</lastmod>
     
   </url>
   
@@ -289,23 +303,9 @@
   </url>
   
   <url>
-    <loc>http://wangqiang.cool/2020/08/04/%E5%89%91%E6%8C%87-Offer-65-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95/</loc>
-    
-    <lastmod>2020-09-08T13:58:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wangqiang.cool/2020/08/03/%E5%89%91%E6%8C%87-Offer-66-%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84/</loc>
     
     <lastmod>2020-09-08T13:58:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wangqiang.cool/2020/08/01/%E5%89%91%E6%8C%87-Offer-68-II-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/</loc>
-    
-    <lastmod>2020-09-08T13:57:57.000Z</lastmod>
     
   </url>
   
